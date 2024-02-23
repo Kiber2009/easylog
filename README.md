@@ -1,0 +1,2 @@
+# easylog
+Simple python logger
